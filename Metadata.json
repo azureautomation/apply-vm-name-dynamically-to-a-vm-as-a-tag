@@ -1,0 +1,20 @@
+{
+    "Author": "Karim M. Moussa",
+    "ContentSize": 1094,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/apply-vm-name-dynamically-to-a-vm-as-a-tag/master/Apply-VMName-asATag-To-VM.ps1",
+    "DownloadCount": 730,
+    "Id": "Apply-VM-name-dynamically-ef9c09fc",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 313,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-6-19T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This workflow is designed to apply the VM name as a tag to all Azure VMs under your subscription, it basically loops all resource groups in the subscription after you successfully login with your credentials, then loops across all VMs and applies it with the $TagName you mapped",
+    "Title": "Apply VM name dynamically to a VM as a tag",
+    "UpdatedDate": "2018-6-23T00:00:00",
+    "Url": "https://github.com/azureautomation/apply-vm-name-dynamically-to-a-vm-as-a-tag",
+    "UserTags": "Tags, VM Lifecycle Management, Compliance"
+}
